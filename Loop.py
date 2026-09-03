@@ -51,12 +51,30 @@
 # b_new = [i**2 if i%2 == 0 else i for i in b]
 # print(b_new)
 
-a=[1,10,23,24,90,100,200,300,400,500]
-result = 0
+# a=[1,10,23,24,90,100,200,300,400,500]
+# result = 0
 
-i = 0
-n = len(a)
-while i < n:
-    result = result + a[i]
-    i = i + 1
-print(result)
+# i = 0
+# n = len(a)
+# while i < n:
+#     result = result + a[i]
+#     i += 1
+# print(result)
+
+# for i in a:
+#     result = result + i
+# print(result)
+
+# a = [-10, 2, 19, -3, -5, 6, 7, 8, 9, 10]
+
+# i = 0
+# while i < len(a):
+#     if a[i] < 0:
+#         a[i] = 0
+#     i += 1
+# print(a)
+
+#Set Comprehension
+a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+s = set(a)
+print(s)
