@@ -75,15 +75,18 @@
 # print(a)
 
 #Set Comprehension
-a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-s = set(a)
-print(s)
+# a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# s = set(a)
+# print(s)
 
 # Union, Intersection
-a = {1, 2, 3}
-b = {3, 4, 5}
+# a = {1, 2, 3}
+# b = {3, 4, 5}
 
-c = a.intersection(b)
-d = a.union(b)
-print(c)
-print(d)
+# c = a.intersection(b)
+# d = a.union(b)
+# print(c)
+# print(d)
+
+
+
