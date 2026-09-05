@@ -8,6 +8,9 @@
 # mx = max([1, 2, 3, 4, 5])
 # print(f"Maximun value is: {mx}. {mx*3}")
 
+# Make a simple calculator that takes two numbers and an operation (+, -, *, /) as input and returns the result.
+
+"""
 def Calculator():
     num1 = int(input("Enter first number:"))
     num2 = int(input("Enter second number:"))
@@ -29,4 +32,4 @@ def Calculator():
     
 result = Calculator()
 print(f"Result: {result}")
-    
+"""
