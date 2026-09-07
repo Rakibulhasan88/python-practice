@@ -1,1 +1,3 @@
-This is a sample text written to the file.
+This is Rakibul Hasan.
+ I am a Python Developer.
+ Studed at Daffodil International University.
