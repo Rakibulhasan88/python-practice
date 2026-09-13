@@ -10,7 +10,7 @@ try:
     x = int("abc")
     a = [1, 2, 3]
     print(a[100])
-    x = abc
+    # x = abc
 except ZeroDivisionError:
     print("Error : Division by zero is not possible.")
 except FileNotFoundError:
